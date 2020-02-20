@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958385161043",
+    "firebase_url": "https://chatee-f0887.firebaseio.com",
+    "project_id": "chatee-f0887",
+    "storage_bucket": "chatee-f0887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958385161043:android:b25f9b37d66c342c39d7a6",
+        "android_client_info": {
+          "package_name": "com.Priyanka.chatee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958385161043-ggrd9l7vsgs0afocdsnp7kc3f0henie9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEcwqgwCtymrv3BMtXjln0SvM3gQ6S30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958385161043-ggrd9l7vsgs0afocdsnp7kc3f0henie9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
